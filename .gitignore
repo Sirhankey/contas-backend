@@ -1,0 +1,13 @@
+# Ignorar diretórios
+node_modules/
+dist/
+
+# Ignorar arquivos de configuração
+*.log
+*.json
+*.lock
+*.md
+
+# Ignorar arquivos gerados pela compilação TypeScript
+*.js
+*.js.map
